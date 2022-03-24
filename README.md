@@ -2,6 +2,8 @@
 
 I am Polya, and here I will share my projects (both personal and for university).
 
+**Fields of interest: Backend & Frontend programming, Algorithms & Data structures, Concurrency.**
+
 📚 2009-2020 - Moscow School No. 1298.
 
 📚 currently studying at MIPT DIHT, getting a degree in Applied Mathematics and Computer Science.
