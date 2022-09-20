@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Polya, and here I will share my projects (both personal and for university).
+I am Polina, and here I will share my projects (both personal and for university).
 
 **Fields of interest: Backend & Frontend programming, Algorithms & Data structures, Concurrency.**
 
