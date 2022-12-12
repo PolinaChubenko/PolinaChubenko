@@ -4,8 +4,6 @@ I am Polina, and here I will share my projects (both personal and for university
 
 **Fields of interest: Backend & Frontend programming, Algorithms & Data structures, Concurrency.**
 
-:books: 2009-2020 - Moscow School No. 1298.
-
 :books: currently studying at MIPT DIHT, getting a degree in Applied Mathematics and Computer Science.
 
 :page_with_curl: fluent in English
