@@ -10,7 +10,7 @@ I am Polina, and here I will share my projects (both personal and for university
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PolinaChubenko&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PolinaChubenko&show_icons=true&theme=radical) -->
 
 <!--
 
