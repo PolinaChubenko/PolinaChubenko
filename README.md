@@ -2,7 +2,7 @@
 
 I am Polina, and here I will share my projects (both personal and for university).
 
-**Fields of interest: Backend & Frontend programming, Algorithms & Data structures, Concurrency.**
+**Fields of interest: Fullstack programming, Algorithms & Data structures, Concurrency.**
 
 :books: currently studying at MIPT DIHT, getting a degree in Applied Mathematics and Computer Science.
 
